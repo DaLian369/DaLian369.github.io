@@ -13,22 +13,20 @@ type: page
 
 <iframe src="https://github.com/WQBin" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
-就读于西安某高校计算机科学与技术专业，热爱软件开发。
+就读于西安建筑科技大学计算机科学与技术专业，热爱软件开发。
 
-处在求职准备期，理想就业方向为C++开发。
+处在求职准备期，理想就业方向为Java开发、服务端开发。
 
-正在学习C++、数据结构、算法、计算机网络、操作系统以及编译原理等，将博客作为见证自己成长的一个手段，同时也是为了更好地展示自己。
+正在学习JavaWeb、JVM、高并发编程、设计模式、操作系统以及编译原理等，用博客记录在自己的成长。
 
-热爱写作，热爱阅读。热爱跑步，曾痴迷于马拉松。也曾热爱空手道
-
-很喜欢七堇年的一句话：“我们要有最朴素的生活和最遥远的梦想，哪怕明天天寒地冻，路遥马亡。
+I must try my best.
 
 
 
 ## 联系我
 
-* GitHub：[WanQBin](https://github.com/WQBin)
-* email：WanQBin2609026@gmail.com
+* GitHub：[DaLian369](https://github.com/DaLian369)
+* email：xl981018@163.com
 
 
 ## 关于本站
