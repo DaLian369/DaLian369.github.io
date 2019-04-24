@@ -179,6 +179,9 @@ public class ParseXML {
 <%
 	//接受请求这种的数据
 	String usernmae = request.getParameter("username");
+	
+	//out可以输出标签
+	out.println("<font color='green'>注册成功</font>");
 %>
 //
 ```
